@@ -3,7 +3,7 @@
 name: ssh-example
 rundeckPluginVersion: 1.0
 author: Aryan Kumar Singh 
-date: 4/11/2011
+date: 11/27/2018
 version: 1.0
 providers:
     - name: ssh
