@@ -1,6 +1,6 @@
 # plugin metadata for ssh-example plugin
 
-name: ssh-example
+name: ssh
 rundeckPluginVersion: 1.0
 author: Aryan Kumar Singh 
 date: 11/27/2018
